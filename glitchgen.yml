@@ -1,0 +1,25 @@
+name: glitchgen
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - h5py
+  - hdf5
+  - jupyterlab
+  - ipython
+  - pandas
+  - seaborn
+  - jupyter
+  - graphviz
+  - boost
+  - git
+  - gsl
+  - torchvision
+  - pytorch
+  - tqdm
+  - pip

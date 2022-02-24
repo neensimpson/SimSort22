@@ -1,0 +1,16 @@
+name: kt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - scikit-learn
+  - matplotlib
+  - keras
+  - h5py
+  - pandas
+  - numpy
+  - scipy
+  - tensorflow
+  - pip
+  - jupyterlab
